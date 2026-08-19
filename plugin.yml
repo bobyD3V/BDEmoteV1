@@ -1,0 +1,19 @@
+name: BDEmoteV1
+main: BDEmoteV1\Main
+version: "1.0.0"
+api: ["5.0.0"]
+author: BobyDev
+description: Emote menu plugin - Sit, T-Pose, Sleep, Die, Balancing, Angry
+
+# IMPORTANT: /bemotes and /stopemote are intentionally NOT declared here.
+# They are registered manually in Main::onEnable(). Declaring them here too
+# used to make PocketMine auto-register a placeholder command first, which
+# then blocked "/bemotes" and forced everyone to type "/bdemotev1:bemotes".
+
+permissions:
+  bdemotev1.use:
+    description: Allows use of BDEmoteV1 commands
+    default: true
+
+depend:
+  - FormAPI
