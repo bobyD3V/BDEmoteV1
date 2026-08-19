@@ -9,13 +9,13 @@ Players can open the BDEmoteV1 Emote Menu and choose from a collection of custom
 
 🎭 Available Emotes
 
-Emote| Description
-🪑 Sit| Makes the player sit in a relaxed position.
-🕴️ T-Pose| Classic T-Pose animation.
-😴 Sleep| A sleeping-style player animation.
-💀 Die| A defeated/death-style animation.
-⚖️ Balancing| A balancing animation with the player maintaining balance.
-😠 Angry| An aggressive/angry-style animation.
+- Emote Description
+-🪑 Sit| Makes the player sit in a relaxed position.
+-🕴️ T-Pose| Classic T-Pose animation.
+-😴 Sleep| A sleeping-style player animation.
+-💀 Die| A defeated/death-style animation.
+-⚖️ Balancing| A balancing animation with the player maintaining balance.
+-😠 Angry| An aggressive/angry-style animation.
 
 ---
 
@@ -35,24 +35,22 @@ Emote| Description
 
 ---
 
-🖥️ Emote Menu
+### 🖥️ Emote Menu
 
-BDEmoteV1 provides a simple graphical interface where players can browse the available emotes and select the animation they want to use.
+BDEmoteV1 includes a simple and clean GUI menu where players can easily browse and activate their favorite emotes.
 
-The menu includes:
+```
+🎭 BDEmoteV1
+━━━━━━━━━━━━━━━━━━
+🪑 Sit
+🕴️ T-Pose
+😴 Sleep
+💀 Die
+⚖️ Balancing
+😠 Angry
+━━━━━━━━━━━━━━━━━━
 
-╔══════════════════════════╗
-║       BDEmoteV1          ║
-║                          ║
-║  🪑  Sit                 ║
-║  🕴️  T-Pose              ║
-║  😴  Sleep               ║
-║  💀  Die                 ║
-║  ⚖️  Balancing           ║
-║  😠  Angry               ║
-╚══════════════════════════╝
-
----
+```
 
 📦 Installation
 
